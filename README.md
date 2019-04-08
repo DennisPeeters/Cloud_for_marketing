@@ -2,8 +2,6 @@
 Examples how Google Cloud could be implemented in Marketing
 
    <PRE>
-<TABLE WIDTH="100%" BORDER="0" BGCOLOR="#FFFFFF"><TR><TD><PRE>
-
    _____ _                 _     __              __  __            _        _   _             
   / ____| |               | |   / _|            |  \/  |          | |      | | (_)            
  | |    | | ___  _   _  __| |  | |_ ___  _ __   | \  / | __ _ _ __| | _____| |_ _ _ __   __ _ 
