@@ -24,8 +24,7 @@ Examples how Google Cloud could be implemented in Marketing
 A Google Cloud Platform diagram contains symbols and icons that represent the use of Google Cloud products and resources and how they communicate with each other to deliver a particular solution. 
 
 [Beacons and Targeted Marketing](https://online.visual-paradigm.com/cn/diagram-examples/google-cloud-platform-diagram/beacons-and-targeted-marketing/)
-
-[Realtime Bidding](https://online.visual-paradigm.com/diagrams.jsp#diagram:proj=0&type=GoogleCloudPlatformDiagram&gallery=/repository/962561eb-4866-4ef7-bab3-eb8063753a85.xml&name=Real-Time%20Bidding%20(Digital%20Marketing)
+[Realtime Bidding](https://online.visual-paradigm.com/diagram-examples/google-cloud-platform-diagram/real-time-bidding-digital-marketing/)
 
 
 
