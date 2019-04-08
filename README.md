@@ -15,6 +15,7 @@ Examples how Google Cloud could be implemented in Marketing
 ## Contents
 
 - [Case Studies](#Case-Studies)
+- [Articles](#Articles)
 - [Diagram Examples](#Diagram-Examples)
 
 
@@ -28,7 +29,9 @@ Examples how Google Cloud could be implemented in Marketing
 - [KLM Activates data in real-time to humanize advertising](https://www.thinkwithgoogle.com/intl/en-154/insights-inspiration/case-studies/klm-activates-data-real-time-using-relay42s-dmp-and-google-platform/)
 
 
+## Articles
 
+- [Google's strategic commitment to join your data](https://dbi.io/uk/blog/2018/10/26/cloud-for-marketing-googles-strategic-commitment-to-join-your-data/)
 
 
 ## Diagram-Examples
