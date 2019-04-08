@@ -20,6 +20,8 @@ Examples how Google Cloud could be implemented in Marketing
 
 ## Case-Studies
 
+- [Adcash - instant ads to anyone](https://media.featuredcustomers.com/CustomerCaseStudy.document/adcash.pdf)
+
 ## Diagram-Examples
 A Google Cloud Platform diagram contains symbols and icons that represent the use of Google Cloud products and resources and how they communicate with each other to deliver a particular solution. 
 
