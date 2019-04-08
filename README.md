@@ -12,3 +12,10 @@ Examples how Google Cloud could be implemented in Marketing
                                                                                          |___/ 
 </PRE>
 
+## Contents
+
+- [Case Studies](#case_studies)
+- [Diagram Examples](#diagrams)
+
+
+## Case Studies
