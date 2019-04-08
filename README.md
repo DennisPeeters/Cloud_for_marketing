@@ -35,6 +35,8 @@ A Google Cloud Platform diagram contains symbols and icons that represent the us
 - [Beacons and Targeted Marketing](https://online.visual-paradigm.com/cn/diagram-examples/google-cloud-platform-diagram/beacons-and-targeted-marketing/)
 - [Realtime Bidding](https://online.visual-paradigm.com/diagram-examples/google-cloud-platform-diagram/real-time-bidding-digital-marketing/)
 - [Ingesting data from various sources to making remarketing decisions](https://cloud.google.com/solutions/images/marketing-warehouse-architecture.svg)
+- [How to integrate SalesForce data into BigQuery](http://www.e-nor.com/wp-content/uploads/pubs/whitepaper_sf-crm-data-bq.pdf)
+
 
 
 
