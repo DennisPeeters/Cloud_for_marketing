@@ -25,6 +25,8 @@ Examples how Google Cloud could be implemented in Marketing
 - [Insight into product line sales performance](https://pythian.com/clients/luxury-fashion-house/)
 - [Deepen audience understanding](http://services.google.com/fh/files/misc/lunametrics-pbs-analytics.pdf)
 - [Audience modeling with Google Analytics 360 & Google Cloud](https://www.bounteous.com/insights/2017/03/01/audience-modeling-case-study/)
+- [KLM Activates data in real-time to humanize advertising](https://www.thinkwithgoogle.com/intl/en-154/insights-inspiration/case-studies/klm-activates-data-real-time-using-relay42s-dmp-and-google-platform/)
+
 
 
 
