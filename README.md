@@ -14,8 +14,14 @@ Examples how Google Cloud could be implemented in Marketing
 
 ## Contents
 
-- [Case Studies](#case_studies)
-- [Diagram Examples](#diagrams)
+- [Case Studies](#Case Studies)
+- [Diagram Examples](#Diagram Examples)
 
 
 ## Case Studies
+
+## Diagram Examples
+A Google Cloud Platform diagram contains symbols and icons that represent the use of Google Cloud products and resources and how they communicate with each other to deliver a particular solution. 
+
+[Beacons and Targeted Marketing](https://online.visual-paradigm.com/cn/diagram-examples/google-cloud-platform-diagram/beacons-and-targeted-marketing/)
+
