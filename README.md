@@ -1,7 +1,7 @@
 # Cloud_for_marketing
 Examples how Google Cloud could be implemented in Marketing
 
-   <PRE>
+<PRE>
    _____ _                 _     __              __  __            _        _   _             
   / ____| |               | |   / _|            |  \/  |          | |      | | (_)            
  | |    | | ___  _   _  __| |  | |_ ___  _ __   | \  / | __ _ _ __| | _____| |_ _ _ __   __ _ 
@@ -9,7 +9,7 @@ Examples how Google Cloud could be implemented in Marketing
  | |____| | (_) | |_| | (_| |  | || (_) | |     | |  | | (_| | |  |   <  __/ |_| | | | | (_| |
   \_____|_|\___/ \__,_|\__,_|  |_| \___/|_|     |_|  |_|\__,_|_|  |_|\_\___|\__|_|_| |_|\__, |
                                                                                          __/ |
-                                                                                         |___/ 
+                                                                                        |___/ 
 </PRE>
 
 ## Contents
@@ -21,7 +21,9 @@ Examples how Google Cloud could be implemented in Marketing
 ## Case-Studies
 
 - [Adcash - instant ads to anyone](https://media.featuredcustomers.com/CustomerCaseStudy.document/adcash.pdf)
-- [conversion attribution modeling - Secure access for different roles](https://www.servian.com/digital-marketing-discovery-analytics/)
+- [Conversion attribution modeling - Secure access for different roles](https://www.servian.com/digital-marketing-discovery-analytics/)
+- [Insight into product line sales performance](https://pythian.com/clients/luxury-fashion-house/)
+
 
 ## Diagram-Examples
 A Google Cloud Platform diagram contains symbols and icons that represent the use of Google Cloud products and resources and how they communicate with each other to deliver a particular solution. 
