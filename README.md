@@ -1,7 +1,16 @@
 # Cloud_for_marketing
 Examples how Google Cloud could be implemented in Marketing
 
-
+   <PRE>
+Font: graffiti   Reflection: no   Adjustment: left   Stretch: no   Width: 80</PRE><HR SIZE="1">
+<TABLE WIDTH="100%" BORDER="0" BGCOLOR="#FFFFFF"><TR><TD><PRE>
+                                     .__          
+  ____ ___  ________    _____ ______ |  |   ____  
+_/ __ \\  \/  /\__  \  /     \\____ \|  | _/ __ \ 
+\  ___/ >    <  / __ \|  Y Y  \  |_> >  |_\  ___/ 
+ \___  >__/\_ \(____  /__|_|  /   __/|____/\___  >
+     \/      \/     \/      \/|__|             \/ 
+</PRE>
 
    _____ _                 _     __              __  __            _        _   _             
   / ____| |               | |   / _|            |  \/  |          | |      | | (_)            
