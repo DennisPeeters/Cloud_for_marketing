@@ -30,6 +30,8 @@ Examples how Google Cloud could be implemented in Marketing
 - [KLM Activates data in real-time to humanize advertising](https://www.thinkwithgoogle.com/intl/en-154/insights-inspiration/case-studies/klm-activates-data-real-time-using-relay42s-dmp-and-google-platform/)
 - [Boosting advertising ROI](https://cloud.google.com/customers/hoff/)
 - [Doubling the number (750.000 to 1.500.000) of users in 4 months](https://peak.ai/client-stories/leaf/)
+- [INBEV - Customer Segmentation](https://www.mavenwave.com/customer-stories/ab-inbev/)
+
 
 
 ## Articles
