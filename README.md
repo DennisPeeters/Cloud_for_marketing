@@ -21,6 +21,7 @@ Examples how Google Cloud could be implemented in Marketing
 
 ## Case-Studies
 
+- [Predicting when clients will change car with AWS sagemaker - 27% increase in sales in 30 days](https://peak.ai/client-stories/regit/)
 - [Adcash - instant ads to anyone](https://media.featuredcustomers.com/CustomerCaseStudy.document/adcash.pdf)
 - [Conversion attribution modeling - Secure access for different roles](https://www.servian.com/digital-marketing-discovery-analytics/)
 - [Insight into product line sales performance](https://pythian.com/clients/luxury-fashion-house/)
@@ -28,7 +29,7 @@ Examples how Google Cloud could be implemented in Marketing
 - [Audience modeling with Google Analytics 360 & Google Cloud](https://www.bounteous.com/insights/2017/03/01/audience-modeling-case-study/)
 - [KLM Activates data in real-time to humanize advertising](https://www.thinkwithgoogle.com/intl/en-154/insights-inspiration/case-studies/klm-activates-data-real-time-using-relay42s-dmp-and-google-platform/)
 - [Boosting advertising ROI](https://cloud.google.com/customers/hoff/)
-- [Predicting when clients will change car with AWS sagemaker - 27% increase in sales in 30 days](https://peak.ai/client-stories/regit/) 
+- [Doubling the number (750.000 to 1.500.000) of users in 4 months](https://peak.ai/client-stories/leaf/)
 
 
 ## Articles
