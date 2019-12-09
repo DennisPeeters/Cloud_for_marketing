@@ -32,6 +32,7 @@ Examples how Google Cloud could be implemented in Marketing
 - [Doubling the number (750.000 to 1.500.000) of users in 4 months](https://peak.ai/client-stories/leaf/)
 - [INBEV - Customer Segmentation](https://www.mavenwave.com/customer-stories/ab-inbev/)
 - [A single customer view for The New York Times](https://caserta.com/new-york-times/)
+- [Sell flu medicine based on all data available](https://www.acceleration.biz/wp-content/uploads/2017/01/AccCaseStudy_GSKGCPSimplrD.pdf)
 
 
 
